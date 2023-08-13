@@ -63,3 +63,15 @@
     <img src="https://camo.githubusercontent.com/c96ec219bd804ec3452f6c7545ea15d5419dcdaf2a042fb6b8b4097d401b8590/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f4879725378384932682e706e67" alt="Badge" width="200" height="200" data-canonical-src="https://hackmd.io/_uploads/HyrSx8I2h.png" style="max-width: 100%;">
   </a>
 </div>
+<p align="left" dir="auto">
+  💼 Adoraria somar esforços na potencialização de resultados para sua empresa. Vamos conversar?
+</p>
+<p align="center" dir="auto">
+  <a href="mailto:profvmarques@gmail.com" alt="Gmail">
+    <img src="https://camo.githubusercontent.com/477fc06773223344d31536fe93e543bf581dd3171d786e68fc9e1e69a889994f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&amp;labelColor=FF0000&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-marques-d-sc-3523968b" alt="LinkedIn" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/606fc81fb7caac796f75591642379477d1172c541a9d088647aaacb1dd458090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  
+</p>
