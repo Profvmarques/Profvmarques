@@ -58,13 +58,7 @@
     </td>
   </tr>
 </tbody></table>
-<h4 dir="auto"><a id="user-content--certificação" class="anchor" aria-hidden="true" href="#-certificação"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="scroll" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dc.png">📜</g-emoji> Certificação:</h4>
 
-<div dir="auto">
-  <a href="https://www.credly.com/badges/a6f4a028-5fc7-4aaf-b094-7d0a31ca9f00/public_url" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/c96ec219bd804ec3452f6c7545ea15d5419dcdaf2a042fb6b8b4097d401b8590/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f4879725378384932682e706e67" alt="Badge" width="200" height="200" data-canonical-src="https://hackmd.io/_uploads/HyrSx8I2h.png" style="max-width: 100%;">
-  </a>
-</div>
 <p align="left" dir="auto">
   💼 Adoraria somar esforços na potencialização de resultados para sua empresa. Vamos conversar?
 </p>
